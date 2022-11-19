@@ -1,6 +1,6 @@
-Hello There! My name is Brice, I love technology and Cloud comouting is what I choose for a Career because I know that's the future of Technology. 
+Hello There! I am a Cloud Engineer and I love learning new Cloud ☁️technologies. Cloud computing is the future of Technology. 
 
-What I know and can do, 
+My Experience; 
 
 • Azure load balancing Solutions, including Layer 7 application gateway and layer 4 load balancer.
 
