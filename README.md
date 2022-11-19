@@ -1,23 +1,14 @@
 Hello There! My name is Brice, I love technology and Cloud comouting is what I choose for a Career because I know that's the future of Technology. 
 
-This is what I know about Cloud Computing...
+What I know and can do, 
 
-• Designing, building, and maintaining cloud architecture.
+• Azure load balancing Solutions, including Layer 7 application gateway and layer 4 load balancer.
 
-• Managing cloud resources and services.
+• Managing Virtual Networks and subnets.
 
-• Automating cloud infrastructure.
+• Creating and managing Network Security Groups for Virtual machines and Virtual Networks for security purposes.
 
-• Monitoring and optimizing cloud performance.
-
-• Ensuring security and compliance of cloud environment.
-
-• Troubleshooting cloud issues.
-
-• Providing support to cloud users.
-
-• Configuration and troubleshooting of VPN connections such as Site to site, Point to Site (Included point to site connections using ADD
-authentication), Vnet-to-Vnet and Vet Peering.
+• Configuration and troubleshooting of VPN connections such as Site to site, Point to Site (Included point to site connections using ADD authentication), Vnet-to-Vnet and Vet Peering.
 
 • Creation and administration of Route tables to manage traffic within Azure environments. 
 
