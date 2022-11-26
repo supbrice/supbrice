@@ -21,4 +21,5 @@ What I can do with the Cloud ☁️;
 • Mentor for new colleagues to ensure quality deliver and case handling.
 
 
-https://www.cyanous.com/img/cloud1.gif
+![Uploading What-is-cloud-computing-1.gif…]()
+
