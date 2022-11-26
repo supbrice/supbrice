@@ -21,5 +21,6 @@ What I can do with the Cloud ☁️;
 • Mentor for new colleagues to ensure quality deliver and case handling.
 
 
-![Uploading What-is-cloud-computing-1.gif…]()
+
+
 
