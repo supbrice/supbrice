@@ -24,3 +24,10 @@ What I can do with the Cloud ☁️;
 
 
 
+<div id="cloud">
+  <div class="cloud-part"></div>
+  <div class="cloud-part"></div>
+  <div class="cloud-part"></div>
+  <div class="cloud-part"></div>
+  <div class="cloud-part"></div>
+</div>
