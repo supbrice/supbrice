@@ -1,7 +1,7 @@
 ## Hello Cloud World😁☁️
 
 
-![image](https://user-images.githubusercontent.com/96848307/204021189-e2e2f613-c5be-438a-8236-87dabdd6ac6c.gif)
+![What-is-cloud-computing-1](https://user-images.githubusercontent.com/96848307/215274357-a172e7d9-1c0e-4618-b210-48c73a5c9b82.gif)
 
 
 
