@@ -1,8 +1,15 @@
 ## Hello Cloud World😁☁️
 
 
-![What-is-cloud-computing-1](https://user-images.githubusercontent.com/96848307/215274357-a172e7d9-1c0e-4618-b210-48c73a5c9b82.gif)
+def cloud_computing(): 
+    print("   _          _  ")
+    print("  | |        | | ")
+    print(" -| |-      -|-|-")
+    print("  |_|\_    _/|_| ")
+    print("    \__\__/   ")
+    print("      \__/  ")
 
+cloud_computing()
 
 
 ## Experience
