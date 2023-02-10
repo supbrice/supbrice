@@ -1,16 +1,24 @@
 ## Hello Cloud World😁☁️
 
 
-def cloud_computing(): 
-    print("   _          _  ")
-    print("  | |        | | ")
-    print(" -| |-      -|-|-")
-    print("  |_|\_    _/|_| ")
-    print("    \__\__/   ")
-    print("      \__/  ")
-
-cloud_computing()
-
+$(document).ready(function() {
+    $(".word-animation").animate({
+        top: '+=50',
+        fontSize: '2em'
+    }, 1000);
+    $(".word-animation").animate({
+      color: '#0099ff',
+    }, 1000);
+    $(".word-animation").animate({
+        top: '-=50',
+        fontSize: '2.5em' 
+    }, 1000);
+    $(".word-animation").html('Cloud computing');
+    $(".word-animation").animate({
+        fontSize: '3em',
+        color: '#000000'
+    }, 1000);
+});
 
 ## Experience
 
