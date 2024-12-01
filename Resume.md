@@ -1,12 +1,3 @@
-# Ngu Brice Che
-
-**Location:** Minneapolis, Minnesota  
-**Email:** [ngubriceche@outlook.com](mailto:ngubriceche@outlook.com)  
-**Phone:** (763) 347-9057  
-**LinkedIn:** [linkedin.com/in/ngubriceche](https://linkedin.com/in/ngubriceche)
-
----
-
 ## Professional Summary
 
 Accomplished IT professional with 15 years of experience in information technology and over 10 years of specialization in cloud computing.  
