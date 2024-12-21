@@ -50,32 +50,6 @@ Results-driven Cloud & Infrastructure Specialist with over 15 years of IT experi
 - Implemented RESTful APIs for internal and external applications, enhancing data accessibility and interoperability.  
 - Optimized API performance and security, reducing latency by 30% and mitigating potential vulnerabilities.
 
----
-
-## 🛠️ Skills & Tools
-- **Cloud Platforms:** Azure, AWS, GCP  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **Containerization:** Docker, Kubernetes, Helm  
-- **DevOps Tools:** Azure DevOps, CI/CD Pipelines, Jenkins  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Azure Monitor  
-- **Security:** HashiCorp Vault, Cloud Security  
-- **API Development:** RESTful APIs, Azure API Management  
-- **Additional Expertise:** Cost Optimization, Load Balancer Configuration
-
----
-
-## 🎓 Certifications
-- **Microsoft Certified: Azure Administrator (AZ-104)**  
-- **Microsoft Certified: Azure Solutions Architect Expert (AZ-305)**  
-- **Currently Pursuing:** Certified Cloud Security Professional (CCSP)
-
----
-
-## 🎓 Education
-- **Paul’s Computer Institute**  
-  Cisco Networking (CCNA Routing and Switching), Oct 2014 - Jan 2015
-
-
 ## 💻 **CLoud Projects** 💻
 
 - **Global Cloud Backup System**
@@ -94,10 +68,21 @@ Results-driven Cloud & Infrastructure Specialist with over 15 years of IT experi
    - [Azure DevOps Pipeline for Infrastructure Deployment](#)
    - [Jenkins Implementation for Deployment Optimization](#)
 
-## 📧 **Contact Me** 📧
-- **LinkedIn:** [linkedin.com/in/ngubriceche](https://linkedin.com/in/ngubriceche)
 
 ---
+
+## 🛠️ Skills & Tools
+- **Cloud Platforms:** Azure, AWS, GCP  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **Containerization:** Docker, Kubernetes, Helm  
+- **DevOps Tools:** Azure DevOps, CI/CD Pipelines, Jenkins  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Azure Monitor  
+- **Security:** HashiCorp Vault, Cloud Security  
+- **API Development:** RESTful APIs, Azure API Management  
+- **Additional Expertise:** Cost Optimization, Load Balancer Configuration
+- **Tools**: Terraform, Docker, Kubernetes, Jenkins, Azure DevOps  
+- **Languages**: Python, PowerShell, Bash  
+- **Other**: Networking, Cloud Security, Cost Optimization
 
 ## 🚀 **Popular Repositories**
 
@@ -110,12 +95,18 @@ Results-driven Cloud & Infrastructure Specialist with over 15 years of IT experi
 
 ---
 
-### 📊 **Technical Skills**
-- **Cloud Platforms**: Azure, AWS, GCP  
-- **Tools**: Terraform, Docker, Kubernetes, Jenkins, Azure DevOps  
-- **Languages**: Python, PowerShell, Bash  
-- **Other**: Networking, Cloud Security, Cost Optimization  
+## 🎓 Certifications
+- **Microsoft Certified: Azure Administrator (AZ-104)**  
+- **Microsoft Certified: Azure Solutions Architect Expert (AZ-305)**  
+- **Currently Pursuing:** Certified Cloud Security Professional (CCSP)
 
 ---
+
+## 🎓 Education
+- **Paul’s Computer Institute**  
+  Cisco Networking (CCNA Routing and Switching), Oct 2014 - Jan 2015
+
+
+
 
 🌟 **Thank you for visiting!** 🌟
