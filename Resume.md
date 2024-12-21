@@ -1,7 +1,7 @@
 # Hello, I'm Brice 👋 🚀
 
 
-# Ngu Brice Che - Cloud & Infrastructure Specialist
+# Cloud & Infrastructure Specialist ☁️
 
 🌍 **Location:** Minneapolis, Minnesota  
 🔗 [LinkedIn Profile](https://linkedin.com/in/ngubriceche)
