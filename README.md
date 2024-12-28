@@ -1,13 +1,16 @@
-# ☁️ Hello, I'm Brice 👋 🚀
+# ☁️ Hello, I'm Brice 👋 🚀  
 
-## IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Learn ☁️
+![Cloud-Themed Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Brice's+Tech+Hub)  
+
+## IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Learn ☁️  
 
 🌍 **Location:** Minneapolis, Minnesota  
 🔗 **[LinkedIn Profile](https://linkedin.com/in/ngubriceche)**  
+🔗 **[GitHub Portfolio](https://github.com/supbrice)**  
 
 ---
 
-## 🏆 **Professional Summary**
+## 🏆 **Professional Summary**  
 
 🌟 Results-driven **Cloud & Infrastructure Specialist** with 15+ years in IT and 8+ years in cloud computing.  
 ☁️ Expertise in **Azure**, **AWS**, and **GCP**, with a strong focus on:  
@@ -23,13 +26,13 @@
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 **Professional Experience**  
 
 ### 🚦 **Real-Time Analyst**  
 **WTW** *(Aug 2022 - Present)*  
 - 🛠️ Monitored and adjusted staffing plans to optimize real-time performance and meet SLA goals.  
 - 🔍 Utilized call monitoring tools to evaluate agent performance and escalate issues when needed.  
-- 📊 Generated Excel-based reports to forecast results and identify operational trends.
+- 📊 Generated Excel-based reports to forecast results and identify operational trends.  
 
 ---
 
@@ -38,7 +41,7 @@
 - ☁️ Deployed and managed **50+ Azure VMs** using API automation, achieving 99.99% uptime.  
 - 🔒 Implemented **Azure API Management** for centralized and secure API governance.  
 - 📉 Reduced downtime by 25% through automated network monitoring workflows.  
-- 🔧 Configured and optimized **load balancers** to enhance scalability.
+- 🔧 Configured and optimized **load balancers** to enhance scalability.  
 
 ---
 
@@ -47,27 +50,34 @@
 - 🛡️ Secured network infrastructure, ensuring 99.9% reliability.  
 - 🔗 Configured routers, switches, and firewalls for optimized network performance.  
 - 📡 Resolved connectivity issues to minimize downtime.  
-- 🛠️ Provided technical guidance to staff for enhanced operations.
+- 🛠️ Provided technical guidance to staff for enhanced operations.  
 
 ---
 
-## 🚀 **Projects**
+## 🚀 **Projects**  
 
 ### 🌍 **Multi-Cloud Infrastructure Automation**  
 - 🛠️ Designed and implemented a **multi-cloud infrastructure** using **Terraform**, enabling seamless deployments across Azure, AWS, and GCP.  
 - ⚙️ Automated CI/CD pipelines with **Azure DevOps** and **Jenkins**, reducing deployment time by 40%.  
-- 📊 Integrated **Prometheus** and **Grafana** for improved monitoring and visibility.
+- 📊 Integrated **Prometheus** and **Grafana** for improved monitoring and visibility.  
 
 ---
 
 ### 🔗 **API Management and Integration**  
 - ☁️ Developed and managed APIs using **Azure API Management** for secure, scalable integrations.  
 - 🔧 Implemented RESTful APIs for internal and external apps, enhancing interoperability.  
-- ⚡ Optimized API performance, reducing latency by 30%.
+- ⚡ Optimized API performance, reducing latency by 30%.  
 
 ---
 
-## 🛠️ **Skills & Tools**
+## 💡 **What I’m Currently Learning**  
+- 🚀 **Cloud Security:** Pursuing **Certified Cloud Security Professional (CCSP)**.  
+- 🛠️ Exploring **Kubernetes Advanced Concepts** for scaling workloads.  
+- 🔍 Deep diving into **Cloud Governance & Cost Management**.  
+
+---
+
+## 🛠️ **Skills & Tools**  
 
 ### ☁️ **Cloud Platforms**  
 Azure | AWS | GCP  
@@ -86,7 +96,15 @@ Python | PowerShell | Bash
 
 ---
 
-## 🎓 **Certifications**
+## 🛠️ **Tech Stack**  
+
+| Cloud Platforms | DevOps Tools       | Programming Languages | Networking & IaC     |
+|------------------|--------------------|------------------------|----------------------|
+| Azure, AWS, GCP  | Jenkins, Azure DevOps | Python, PowerShell, Bash | Terraform, Ansible |
+
+---
+
+## 🎓 **Certifications**  
 
 - ✅ **Microsoft Certified: Azure Administrator (AZ-104)**  
 - ✅ **Microsoft Certified: Azure Solutions Architect Expert (AZ-305)**  
@@ -94,15 +112,25 @@ Python | PowerShell | Bash
 
 ---
 
-## 🌱 **Education**
+## 🎓 **Education**  
 
 - **Paul’s Computer Institute**  
   📜 *Cisco Networking (CCNA Routing and Switching)* (Oct 2014 - Jan 2015)  
 
 ---
 
-## 📩 **Contact Me**
+## 🌱 **Hobbies & Interests**  
 
-💼 [LinkedIn](https://linkedin.com/in/ngubriceche)  
+- 🌟 Passionate about cloud technology and IT automation.  
+- 🎥 Enjoy making content and exploring the latest tech gadgets.  
+- 📚 Listening to Audio Books, Podcast on cybersecurity and leadership.  
+- 🌍 Love traveling and photovideography!  
 
-☁️ **Thank you for visiting!** ☁️
+---
+
+## 📩 **Let’s Connect!**  
+
+💼 **[LinkedIn](https://linkedin.com/in/ngubriceche)**  
+🔗 **[GitHub Portfolio](https://github.com/supbrice)**    
+
+☁️ **Let’s collaborate on cloud-native projects! 🚀**  
