@@ -1,6 +1,6 @@
 # Hello, I'm Brice 👋 🚀
 
-## Cloud & Infrastructure Specialist ☁️
+## IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Learn ☁️
 
 - **🌍 Location:** Minneapolis, Minnesota  
 - **🔗 [LinkedIn Profile](https://linkedin.com/in/ngubriceche)**  
