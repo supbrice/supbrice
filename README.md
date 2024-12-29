@@ -1,6 +1,6 @@
 # ☁️ Hello, I'm Brice 👋 🚀  
 
-![Cloud-Themed Banner](![cloud-computing-GIF](https://github.com/user-attachments/assets/e6ec555a-e413-4bc0-a188-22eb941bd64b)  
+[cloud-computing-GIF](https://github.com/user-attachments/assets/e6ec555a-e413-4bc0-a188-22eb941bd64b)  
 
 ## IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Learn ☁️  
 
