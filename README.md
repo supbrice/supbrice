@@ -1,14 +1,23 @@
 # ☁️ Hello, I'm Brice 👋 🚀  
 
-![Cloud-Themed Banner](![cloud-computing-GIF](https://github.com/user-attachments/assets/cb99ea94-224e-44f0-a11a-94c527018f12)
-) 
+![Cloud-Themed Banner](https://github.com/user-attachments/assets/cb99ea94-224e-44f0-a11a-94c527018f12)
 
-## IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Learn ☁️  
+## 🌟 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Lifelong Learner ☁️  
 
-🌍 **Location:** Minneapolis, Minnesota  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/ngubriceche)**  
-🔗 **[GitHub Portfolio](https://github.com/supbrice)**  
+### 🚀 About Me:
+- Passionate about leveraging cloud technology to drive innovation and secure infrastructures.
+- Experienced in PowerShell scripting to automate complex workflows.
+- Focused on delivering scalable and secure IT solutions with Azure and Microsoft technologies.
 
+### 📈 Current Goals:
+- Expanding expertise in DevOps practices and advanced cloud security.
+- Building open-source tools for automation and security management.
+
+### 📫 Connect with Me:
+- [LinkedIn](https://linkedin.com/in/ngubriceche)
+- [GitHub](https://github.com/supbrice)
+
+---
 ---
 
 ## 🏆 **Professional Summary**  
