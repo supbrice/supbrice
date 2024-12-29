@@ -1,6 +1,6 @@
 # ☁️ Hello, I'm Brice 👋 🚀  
 
-![Cloud-Themed Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F712272497345637801%2F&psig=AOvVaw3gPvRF5YM3Ptz3RmNpyp6V&ust=1735556433879000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjFvtnpzIoDFQAAAAAdAAAAABAE)  
+![Cloud-Themed Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F712272497345637801%2F&psig=AOvVaw3gPvRF5YM3Ptz3RmNpyp6V&ust=1735556433879000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjFvtnpzIoDFQAAAAAdAAAAABAE](https://www.cloudopedia.in/wp-content/uploads/2019/03/cloud-computing-GIF.gif))  
 
 ## IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Learn ☁️  
 
