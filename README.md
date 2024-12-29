@@ -1,6 +1,6 @@
 # 👋🏾 Hello, I'm Brice ☁️ 
   
-## 🌟 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Lifelong Learner ☁️
+## 💻 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Lifelong Learner ☁️
 
 
 ![Cloud-Themed Banner](https://github.com/user-attachments/assets/cb99ea94-224e-44f0-a11a-94c527018f12)
