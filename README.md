@@ -13,10 +13,6 @@
 - Expanding expertise in DevOps practices and advanced cloud security.
 - Building open-source tools for automation and security management.
 
-### 📫 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/ngubriceche)
-- [GitHub](https://github.com/supbrice)
-
 ---
 ---
 
