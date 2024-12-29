@@ -1,20 +1,12 @@
-# ☁️ Hello, I'm Brice 👋 🚀  
+# 👋🏾 Hello, I'm Brice ☁️ 
+  
+## 🌟 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Lifelong Learner ☁️
+
 
 ![Cloud-Themed Banner](https://github.com/user-attachments/assets/cb99ea94-224e-44f0-a11a-94c527018f12)
 
-## 🌟 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Lifelong Learner ☁️  
+  
 
-### 🚀 About Me:
-- Passionate about leveraging cloud technology to drive innovation and secure infrastructures.
-- Experienced in PowerShell scripting to automate complex workflows.
-- Focused on delivering scalable and secure IT solutions with Azure and Microsoft technologies.
-
-### 📈 Current Goals:
-- Expanding expertise in DevOps practices and advanced cloud security.
-- Building open-source tools for automation and security management.
-
----
----
 
 ## 🏆 **Professional Summary**  
 
@@ -129,7 +121,7 @@ Python | PowerShell | Bash
 
 - 🌟 Passionate about cloud technology and IT automation.  
 - 🎥 Enjoy making content and exploring the latest tech gadgets.  
-- 📚 Listening to Audio Books, Podcast on cybersecurity and leadership.  
+- 📚 Listening to Audio Books, Podcast on cloud, cybersecurity and leadership.  
 - 🌍 Love traveling and photovideography!  
 
 ---
