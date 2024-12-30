@@ -92,6 +92,14 @@ Load Balancer Configuration | Network Optimization
 ### 🌐 **Languages**  
 Python | PowerShell | Bash  
 
+---
+
+## 🛠️ **Tech Stack**  
+
+| Cloud Platforms | DevOps Tools       | Programming Languages | Networking & IaC     |
+|------------------|--------------------|------------------------|----------------------|
+| Azure, AWS, GCP  | Jenkins, Azure DevOps | Python, PowerShell, Bash | Terraform, Ansible |
+
 [![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
@@ -101,14 +109,6 @@ Python | PowerShell | Bash
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
-
----
-
-## 🛠️ **Tech Stack**  
-
-| Cloud Platforms | DevOps Tools       | Programming Languages | Networking & IaC     |
-|------------------|--------------------|------------------------|----------------------|
-| Azure, AWS, GCP  | Jenkins, Azure DevOps | Python, PowerShell, Bash | Terraform, Ansible |
 
 ---
 
