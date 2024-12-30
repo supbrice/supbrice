@@ -92,6 +92,16 @@ Load Balancer Configuration | Network Optimization
 ### 🌐 **Languages**  
 Python | PowerShell | Bash  
 
+[![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+
+
 ---
 
 ## 🛠️ **Tech Stack**  
