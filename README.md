@@ -144,4 +144,4 @@ Python | PowerShell | Bash
 ## 📩 **Let’s Connect!**
 
 💼 **[LinkedIn](https://linkedin.com/in/ngubriceche)**  
-🔗 **[GitHub Portfolio](https:// 
+🔗 **[GitHub Portfolio](https://https://github.com/supbrice)**
