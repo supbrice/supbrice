@@ -6,8 +6,9 @@
 
 ## 🏆 **Professional Summary**
 
-🌟 Results-driven **Cloud & Infrastructure Specialist** with over 15 years in IT and 8+ years in cloud computing.  
-☁️ Expertise in **Azure**, **AWS**, and **GCP**, with a strong focus on:  
+Experienced **IT Specialist** with strong expertise in customer support and cloud technologies, primarily **Azure**, complemented by hands-on experience in **AWS**, **GCP**, and **Linux** environments. Proficient in leveraging Azure tools and services to design, implement, and manage scalable and secure cloud infrastructures, ensuring optimal performance and delivering exceptional service.
+
+
 - **Infrastructure as Code (IaC)**  
 - **API integrations**  
 - **CI/CD pipelines**  
