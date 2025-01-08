@@ -125,14 +125,14 @@ Python | PowerShell | Bash
 
 ## 🎓 **Education**
 
-- **Paul’s Computer Institute**  
-  📜 *Computer Networking and Telecommunications*  
-
 - **St. Rita’s Technical and Commercial School**  
   📜 *GED, Computer Science*  
 
+- **Cisco Networking Academy**  
+  📜 *Cisco Certified Network Associate (CCNA)*  
+
 - **NoelTechSolutions**  
-  📜 *Azure Cloud Computing*  
+  📜 *Azure Cloud Computing Fundamentals*  
 
 ---
 
