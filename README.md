@@ -1,13 +1,14 @@
 # 👋🏾 Hello, I'm Brice ☁️
 
-## 💻 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | Lifelong Learner ☁️
+## 💻 IT Specialist | Microsoft & Azure Certified | PowerShell Automation | Infrastructure & API Security | AI | Lifelong Learner ☁️
 
 ![Cloud-Themed Banner](https://github.com/user-attachments/assets/cb99ea94-224e-44f0-a11a-94c527018f12)
+
+---
 
 ## 🏆 **Professional Summary**
 
 Experienced **IT Specialist** with strong expertise in customer support and cloud technologies, primarily **Azure**, complemented by hands-on experience in **AWS**, **GCP**, and **Linux** environments. Proficient in leveraging Azure tools and services to design, implement, and manage scalable and secure cloud infrastructures, ensuring optimal performance and delivering exceptional service.
-
 
 - **Infrastructure as Code (IaC)**  
 - **API integrations**  
@@ -28,6 +29,7 @@ Experienced **IT Specialist** with strong expertise in customer support and clou
 - 🛠️ Monitored and adjusted staffing plans to optimize real-time performance and meet SLA goals.  
 - 🔍 Utilized call monitoring tools to evaluate agent performance and escalate issues when needed.  
 - 📊 Generated Excel-based reports to forecast results and identify operational trends.  
+- **Tools Used:** NICE Workforce Management, Genesys Cloud, Webstation, Microsoft Excel, Power BI, Tableau.
 
 ---
 
@@ -38,6 +40,7 @@ Experienced **IT Specialist** with strong expertise in customer support and clou
 - 📉 Reduced system downtime by 25% through advanced network monitoring workflows.  
 - 🔧 Optimized resource usage and scalability by enhancing load balancer configurations.  
 - 🤝 Collaborated with cross-functional teams to design and implement infrastructure solutions that met business requirements.  
+- **Tools Used:** Azure Portal, Terraform, PowerShell, Azure API Management, Azure Monitor, Load Balancers.
 
 ---
 
@@ -48,6 +51,7 @@ Experienced **IT Specialist** with strong expertise in customer support and clou
 - 📡 Implemented and configured network devices, including routers, switches, and firewalls.  
 - 🛠️ Configured mobile devices and SIM cards, ensuring seamless integration with the network and optimal user experience.  
 - 👥 Provided technical support to staff, effectively resolving connectivity problems.  
+- **Tools Used:** Cisco Routers and Switches, Fortinet Firewalls, Wireshark, Putty, TCP/IP Protocols.
 
 ---
 
@@ -144,4 +148,4 @@ Python | PowerShell | Bash
 ## 📩 **Let’s Connect!**
 
 💼 **[LinkedIn](https://linkedin.com/in/ngubriceche)**  
-🔗 **[GitHub Portfolio](https://https://github.com/supbrice)**
+🔗 **[GitHub Portfolio](https://github.com/supbrice)**
