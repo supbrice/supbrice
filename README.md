@@ -1,83 +1,36 @@
 # Hi, I'm Ngu Brice Che 👋
 
-**Client Technical Support Specialist | Cloud Infrastructure Expert | Automation Enthusiast**
+**Systems & Infrastructure Administrator | Azure Solutions Architect Expert**
+
+📍 **Ramsey, MN** | 💼 **Open to Systems Administration, Cloud Infrastructure & DevOps Roles**
 
 ---
 
-## Professional Summary
+## 👨‍💻 About Me
 
-Dynamic Client Technical Support Specialist with proven expertise in Azure, AWS, and GCP cloud technologies, infrastructure automation, and IT support. I bring 5+ years of hands-on experience solving complex technical problems, maintaining 90%+ SLA performance, and leading cross-functional teams to deliver exceptional service quality. Known for clear communication, strong follow-through, and a passion for making technology accessible to users.
+Dynamic Systems & Infrastructure Administrator with extensive hands-on experience designing, securing, and maintaining enterprise hybrid-cloud environments. Certified **Azure Solutions Architect Expert** and **Azure Administrator Associate** specializing in cloud governance, identity management (IAM), process automation, and physical/virtual network infrastructure.
+
+- 🔭 **Currently Focusing On:** Hybrid Azure Cloud Governance, Infrastructure-as-Code (Terraform/Bicep), and PowerShell/Python Automation.
+- ⚡ **Core Strengths:** Rapid Tier 2/3 Incident Resolution, Enterprise Active Directory / Entra ID Management, High Availability Networking, and SLA Optimization.
+- 🏡 **Location:** Ramsey, MN (Greater Minneapolis Metropolitan Area).
 
 ---
 
 ## 🎓 Certifications
 
-- **Microsoft Certified: Azure Solutions Architect Expert** (Nov 2024)
-- **Microsoft Certified: Azure Administrator Associate** (Sep 2024)
-- Cisco CCNA Routing and Switching
-- Azure Cloud Computing Certified
+- **Microsoft Certified: Azure Solutions Architect Expert** *(Nov 2024)*
+- **Microsoft Certified: Azure Administrator Associate** *(Sep 2024)*
+- **Cisco CCNA** (Routing & Switching)
+- **Azure Cloud Computing Certification**
 
 ---
 
-## 💻 Technical Skills
+## 💻 Technical Stack & Ecosystem
 
-**Cloud & Infrastructure:** Azure | AWS | GCP | Infrastructure as Code (Terraform)
-
-**Automation & Scripting:** PowerShell | Python | Terraform | Bash
-
-**Support & ITSM Tools:** ServiceNow | Salesforce | NICE | Genesys Cloud | Visual Studio | Xcode
-
-**Networking & Security:** DNS | DHCP | VPN | Firewall Management | Endpoint Monitoring
-
-**Monitoring & Analytics:** Performance Reporting | SLA Management | Excel Dashboards
-
----
-
-## 🚀 Key Achievements
-
-- **90%+ SLA Compliance** - Maintained service level agreements for 100+ agents while managing real-time workforce analytics
-- **Infrastructure Optimization** - Automated cloud infrastructure across Azure, AWS, and GCP using Infrastructure as Code (IaC), improving deployment efficiency by 30%
-- **Cross-Functional Leadership** - Partnered with IT and support teams to resolve complex incidents with clear ownership and documentation
-- **Client Success** - Diagnosed and resolved 100+ technical incidents, improving case resolution clarity and handoff speed
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supbrice&show_icons=true&theme=radical)
-
----
-
-## 💡 Featured Skills
-
-- **End-User Support:** Troubleshooting, technical documentation, customer communication
-- **System Administration:** Access control, cloud resource management, deployment automation
-- **Problem-Solving:** Root cause analysis, incident response, workflow optimization
-- **Team Collaboration:** Workforce management, cross-functional partnerships, clear escalation processes
-
----
-
-## 🎯 What I'm Passionate About
-
-✨ Solving real user problems with elegant technical solutions
-✨ Automating repetitive tasks to improve team efficiency
-✨ Building scalable cloud infrastructure
-✨ Supporting teams through clear communication and documentation
-
----
-
-## 📍 Current Availability
-
-**Open to:** Full-time roles | Contract positions | Cloud architecture projects | Automation consulting
-
----
-
-## 🔗 Let's Connect!
-
-**Location:** Minnesota, USA
-
-**Interested in collaborating?** Feel free to reach out!
-
----
-
-*Last updated: March 2026*
+```text
+☁️ Cloud Platforms:      Microsoft Azure (Primary), AWS, GCP
+⚙️ Infrastructure & IaC:  Terraform, ARM Templates, Bicep, Windows Server, Linux
+📜 Automation & Scripting: PowerShell, Python, Bash, REST APIs
+🌐 Networking & Security: Azure VNet, VPN, DNS, DHCP, Firewalls, Entra ID (Azure AD), IAM
+🛠️ Operations & ITSM:     ServiceNow, Jira, SLA Management, Monitoring & Analytics
+📱 Apple Hardware & OS:   M-Series macOS Administration, iOS Deployment & Diagnostics
