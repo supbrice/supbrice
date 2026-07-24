@@ -1,4 +1,4 @@
-# Hi there, I'm Ngu Brice Che 👋
+# Hi there, I'm Brice 👋🏾
 
 **Systems & IT Infrastructure Administrator | Azure Solutions Architect Expert**  
 📍 Ramsey, Minnesota | ✉️ Open to Collaborations & Opportunities
