@@ -1,7 +1,7 @@
 # Hi there, I'm Brice 👋🏾
 
 **Systems & IT Infrastructure Administrator | Azure Solutions Architect Expert**  
-📍 Ramsey, Minnesota | ✉️ Open to Collaborations & Opportunities
+📍 Minnesota | ✉️ Open to Collaborations & Opportunities
 
 ---
 
@@ -52,19 +52,9 @@ Experienced **Systems and IT Infrastructure Administrator** with over 5 years of
 * Managed local area network (LAN) and enterprise routing setups, ensuring reliable inter-site connectivity and secure VPN access.
 * Spearheaded Tier 2/3 incident resolution, analyzing root causes to eliminate recurring outages and maintain strict SLA performance standards.
 * Maintained technical documentation and knowledge bases to streamline IT support workflows and team onboarding.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com)
-* **Location:** Ramsey, MN
+* **LinkedIn:** [linkedin.com](https://linkedin.com/ngubriceche)
+* **Location:** Minnesota
