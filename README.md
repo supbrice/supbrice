@@ -1,64 +1,71 @@
-# Hi there, I'm Brice 👋🏾
+# Ngu Brice Che
 
-**Systems & IT Infrastructure Administrator | Azure Solutions Architect Expert**  
-📍 Minnesota | ✉️ Open to Collaborations & Opportunities
+**Systems & Infrastructure Administrator**  
+Azure Solutions Architect Expert · Azure Administrator Associate  
+Minnesota, USA
 
----
-
-## 👨‍💻 About Me
-
-Experienced **Systems and IT Infrastructure Administrator** with nearly a decade of experience designing, building, and maintaining high-availability enterprise hybrid-cloud environments. Specialized in cloud governance, identity management, automated infrastructure provisioning, and Tier 2/3 operational support.
-
-* ☁️ **Cloud Architecture:** Deep experience in Microsoft Azure, hybrid cloud migration, and Entra ID (Azure AD) governance.
-* 🛠️ **Infrastructure as Code (IaC):** Automating infrastructure deployment using Terraform and Bicep.
-* ⚡ **Automation & Scripting:** Streamlining routine operations, data validation, and workflows via PowerShell, Python, and AI automation tools.
-* 🔌 **Networking & Security:** Skilled in routing/switching, VPNs, custom VLAN segmentation, and endpoint protection.
+Nearly a decade managing enterprise networks, Azure environments, and production systems. I work with infrastructure as code, hybrid identity, and Tier 2/3 support, and I have held 90%+ SLA in production operations.
 
 ---
 
-## 📜 Professional Certifications
+## Skills
 
-* 🏆 **Microsoft Certified: Azure Solutions Architect Expert**
-* 🏅 **Microsoft Certified: Azure Administrator Associate**
-* 📜 **Cisco Networking (CCNA Track)**
-
----
-
-## 🛠️ Technical Skills & Tools
-
-| Domain | Tech Stack & Tooling |
-| :--- | :--- |
-| **Cloud & Identity** | Microsoft Azure, Entra ID (Azure AD), M365 Administration, Intune, AutoPilot |
-| **Infrastructure & IaC** | Terraform, Bicep, ARM Templates, Docker, Kubernetes |
-| **Scripting & Automation** | PowerShell, Python, Bash, YAML, Claude Code / AI Tooling |
-| **Operating Systems** | Windows Server, Linux (RHEL/Ubuntu/Debian), macOS |
-| **Networking** | Cisco IOS, UniFi, Subnetting, VLANs, VPNs, Firewalls, DNS/DHCP |
-| **Security & Monitoring** | Microsoft Defender for Endpoint, Conditional Access, Azure Monitor, Log Analytics |
-| **ITSM & Data Analysis** | ServiceNow, Zendesk, SLA Compliance, Tier 2/3 Escalation Handling, Excel Analytics |
+| Area | Tools |
+| --- | --- |
+| Cloud | Azure |
+| Infrastructure as Code | Python, PowerShell, Terraform |
+| Networking | DNS, DHCP, VPN, firewalls, endpoint monitoring |
+| ITSM and contact center | ServiceNow, Salesforce, NICE, Genesys Cloud |
+| Other | Excel, Visual Studio, Xcode, Vibe/Agentic Coding |
 
 ---
 
-## 💼 Core Technical Competencies & Experience
+## Projects
 
-### ☁️ Hybrid-Cloud & Infrastructure Management
-* Architected and managed scalable Azure infrastructure environments, aligning with high availability and operational excellence standards.
-* Implemented identity governance and secure access controls using Entra ID, Conditional Access, and Role-Based Access Control (RBAC).
-* Provisioned cloud resources using Infrastructure as Code (Terraform and Bicep) to enforce consistency and eliminate manual configuration drift.
+- **[Network Infrastructure Upgrade — Computer Plus Solutions](https://github.com/supbrice/CloudProjects)**  
+  Gateways, L2/L3 PoE switching, VLANs, UniFi Protect, and isolation of public, corporate, and OT networks, with NAT and QoS.
 
-### ⚙️ Automation & Systems Engineering
-* Authored custom PowerShell and Python scripts to automate user lifecycle management, administrative workflows, and patching tasks.
-* Managed endpoint environments through Microsoft Intune, deploying compliance policies, security configurations, and AutoPilot profiles.
-* Integrated AI-driven tooling to streamline code generation, log parsing, and operational documentation.
+- **[Multi-Region Azure Hybrid Infrastructure and Zero-Trust Identity](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity)**  
+  Terraform lab for a hybrid Azure environment with zero-trust identity.
 
-### 🌐 Network Infrastructure & Incident Response
-* Managed local area network (LAN) and enterprise routing setups, ensuring reliable inter-site connectivity and secure VPN access.
-* Spearheaded Tier 2/3 incident resolution, analyzing root causes to eliminate recurring outages and maintain strict SLA performance standards.
-* Maintained technical documentation and knowledge bases to streamline IT support workflows and team onboarding.
+- **[Azure Cloud Skills and Use Cases](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases)**  
+  Azure architect labs covering core services and practical use cases.
+
+- **[Hybrid AD on Azure](https://github.com/supbrice/configure-ad)**  
+  Hybrid Active Directory on Azure.
 
 ---
 
-## 📫 Connect with Me
+## Experience
 
-* **LinkedIn:** [linkedin.com/in/ngubriceche](https://www.linkedin.com/in/ngubriceche)
-* **GitHub:** [github.com/supbrice](https://github.com/supbrice)
-* **Location:** Minnesota, USA
+**Client Technical Support — Roundel / Target**  
+*October 2025 – January 2026*  
+ServiceNow Tier 2/3 support.
+
+**Workforce Management Analyst — WTW**  
+*August 2022 – December 2024*  
+Workforce operations on NICE and Genesys Cloud.
+
+**Systems Administrator — nVent HOFFMAN**  
+*Anoka, MN · March 2021 – August 2022*  
+Azure identity, hybrid infrastructure, and IaC with Terraform, Python, and PowerShell.
+
+**IT Support — MTN Cameroon**  
+*September 2016 – February 2021*  
+Enterprise networking for 100+ users.
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Solutions Architect Expert — November 2024
+- Microsoft Certified: Azure Administrator Associate — September 2024
+- Cisco CCNA track
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/ngubriceche](https://www.linkedin.com/in/ngubriceche)
+- GitHub: [github.com/supbrice](https://github.com/supbrice)
+- Location: Minnesota, USA
