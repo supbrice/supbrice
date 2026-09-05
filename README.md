@@ -1,4 +1,4 @@
-# Ngu Brice Che
+# Brice
 
 **Systems & Infrastructure Administrator**  
 Azure Solutions Architect Expert · Azure Administrator Associate  
