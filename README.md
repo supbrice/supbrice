@@ -2,9 +2,11 @@
 
 **Systems & Infrastructure Administrator**  
 Azure Solutions Architect Expert · Azure Administrator Associate  
-Minnesota, USA
+Ramsey / Twin Cities north metro, Minnesota
 
-Nearly a decade managing enterprise networks, Azure environments, and production systems. I work with infrastructure as code, hybrid identity, and Tier 2/3 support, and I have held 90%+ SLA in production operations.
+Nearly a decade managing enterprise networks, Azure environments, and production systems. Focus: hybrid identity, infrastructure as code, and Tier 2/3 operations.
+
+**Portfolio site (live):** [Azure Static Web Apps](https://mango-ground-0a1d23510.7.azurestaticapps.net/) · [repo](https://github.com/supbrice/brice-portfolio)
 
 ---
 
@@ -12,27 +14,26 @@ Nearly a decade managing enterprise networks, Azure environments, and production
 
 | Area | Tools |
 | --- | --- |
-| Cloud | Azure |
-| Infrastructure as Code | Python, PowerShell, Terraform |
-| Networking | DNS, DHCP, VPN, firewalls, endpoint monitoring |
-| ITSM and contact center | ServiceNow, Salesforce, NICE, Genesys Cloud |
-| Other | Excel, Visual Studio, Xcode, Vibe/Agentic Coding |
+| Cloud & identity | Azure, Entra ID, hybrid cloud, RBAC |
+| Infrastructure as Code | Terraform, PowerShell, Python |
+| Networking | DNS, DHCP, VPN, VLANs, firewalls, endpoint monitoring |
+| ITSM | ServiceNow, Salesforce |
 
 ---
 
 ## Projects
 
 - **[Network Infrastructure Upgrade — Computer Plus Solutions](https://github.com/supbrice/CloudProjects)**  
-  Gateways, L2/L3 PoE switching, VLANs, UniFi Protect, and isolation of public, corporate, and OT networks, with NAT and QoS.
+  UniFi gateway, L2/L3 PoE switching, VLAN zoning (public / corporate / OT), NAT/QoS, troubleshooting scenarios.
 
-- **[Multi-Region Azure Hybrid Infrastructure and Zero-Trust Identity](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity)**  
-  Terraform lab for a hybrid Azure environment with zero-trust identity.
-
-- **[Azure Cloud Skills and Use Cases](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases)**  
-  Azure architect labs covering core services and practical use cases.
+- **[Multi-Region Azure Hybrid / Zero-Trust Identity Lab](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity)**  
+  Terraform lab: multi-region VNets/NSGs, site-to-site VPN, Bastion, managed identity/RBAC, Monitor (portfolio lab, not production).
 
 - **[Hybrid AD on Azure](https://github.com/supbrice/configure-ad)**  
-  Hybrid Active Directory on Azure.
+  AD DS forest on Azure VMs, OU/GPO baseline, Entra Connect / Cloud Sync design notes (lab).
+
+- **[Azure Architect Labs](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases)**  
+  Reference labs: Entra/CA/RBAC patterns, hybrid VPN/DNS, Terraform, networking, Azure Monitor.
 
 ---
 
@@ -44,11 +45,11 @@ ServiceNow Tier 2/3 support.
 
 **Workforce Management Analyst — WTW**  
 *August 2022 – December 2024*  
-Workforce operations on NICE and Genesys Cloud.
+Workforce operations (NICE / Genesys).
 
 **Systems Administrator — nVent HOFFMAN**  
 *Anoka, MN · March 2021 – August 2022*  
-Azure identity, hybrid infrastructure, and IaC with Terraform, Python, and PowerShell.
+Azure / Entra identity, hybrid infrastructure, IaC with Terraform, Python, and PowerShell.
 
 **IT Support — MTN Cameroon**  
 *September 2016 – February 2021*  
@@ -66,6 +67,6 @@ Enterprise networking for 100+ users.
 
 ## Connect
 
+- Portfolio: [mango-ground-0a1d23510.7.azurestaticapps.net](https://mango-ground-0a1d23510.7.azurestaticapps.net/)
 - LinkedIn: [linkedin.com/in/ngubriceche](https://www.linkedin.com/in/ngubriceche)
 - GitHub: [github.com/supbrice](https://github.com/supbrice)
-- Location: Minnesota, USA
