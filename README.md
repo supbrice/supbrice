@@ -6,7 +6,7 @@ Ramsey / Twin Cities north metro, Minnesota
 
 Nearly a decade managing enterprise networks, Azure environments, and production systems. Focus: hybrid identity, infrastructure as code, and Tier 2/3 operations.
 
-**Portfolio site (live):** [Azure Static Web Apps](https://mango-ground-0a1d23510.7.azurestaticapps.net/) · [repo](https://github.com/supbrice/brice-portfolio)
+**Portfolio site (live):** [GitHub Pages](https://supbrice.github.io/portfolio/) · [repo](https://github.com/supbrice/portfolio)
 
 ---
 
@@ -67,6 +67,6 @@ Enterprise networking for 100+ users.
 
 ## Connect
 
-- Portfolio: [mango-ground-0a1d23510.7.azurestaticapps.net](https://mango-ground-0a1d23510.7.azurestaticapps.net/)
+- Portfolio: [supbrice.github.io/portfolio](https://supbrice.github.io/portfolio/)
 - LinkedIn: [linkedin.com/in/ngubriceche](https://www.linkedin.com/in/ngubriceche)
 - GitHub: [github.com/supbrice](https://github.com/supbrice)
