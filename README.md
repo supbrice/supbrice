@@ -4,9 +4,15 @@
 Azure Solutions Architect Expert · Azure Administrator Associate  
 Ramsey / Twin Cities north metro, Minnesota
 
-Nearly a decade managing enterprise networks, Azure environments, and production systems. Focus: hybrid identity, infrastructure as code, and Tier 2/3 operations.
+Nearly a decade managing enterprise networks, Azure environments, and production systems. Focus: **hybrid identity (Entra)**, infrastructure as code, and Tier 2/3 operations.
 
-**Portfolio site (live):** [GitHub Pages](https://supbrice.github.io/portfolio/) · [repo](https://github.com/supbrice/portfolio)
+**Portfolio (live):** [supbrice.github.io/portfolio](https://supbrice.github.io/portfolio/) · [repo](https://github.com/supbrice/portfolio)
+
+---
+
+## Hire proof (start here)
+
+- **[entra-hybrid-proof](https://github.com/supbrice/entra-hybrid-proof)** — Day 1 Entra pack: Conditional Access, break-glass, PIM User Admin, group-based access, M365 license patterns, Graph PowerShell JML (**lab only — not a customer tenant**).
 
 ---
 
@@ -23,29 +29,15 @@ Nearly a decade managing enterprise networks, Azure environments, and production
 
 ## Projects
 
-- **[Network Infrastructure Upgrade — Computer Plus Solutions](https://github.com/supbrice/CloudProjects)**  
-  UniFi gateway, L2/L3 PoE switching, VLAN zoning (public / corporate / OT), NAT/QoS, troubleshooting scenarios.
-
-- **[Multi-Region Azure Hybrid / Zero-Trust Identity Lab](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity)**  
-  Terraform lab: multi-region VNets/NSGs, site-to-site VPN, Bastion, managed identity/RBAC, Monitor (portfolio lab, not production).
-
-- **[Hybrid AD on Azure](https://github.com/supbrice/configure-ad)**  
-  AD DS forest on Azure VMs, OU/GPO baseline, Entra Connect / Cloud Sync design notes (lab).
-
-- **[Azure Architect Labs](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases)**  
-  Reference labs: Entra/CA/RBAC patterns, hybrid VPN/DNS, Terraform, networking, Azure Monitor.
+- **[entra-hybrid-proof](https://github.com/supbrice/entra-hybrid-proof)** — Entra Conditional Access, PIM, groups, M365 patterns, JML scripts (lab).
+- **[Hybrid AD on Azure](https://github.com/supbrice/configure-ad)** — AD DS forest on Azure VMs, OU/GPO baseline, Entra Connect / Cloud Sync design notes (lab).
+- **[Multi-Region Azure Hybrid / Zero-Trust Identity Lab](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity)** — Terraform: multi-region VNets/NSGs, site-to-site VPN, Bastion, managed identity/RBAC, Monitor (lab, not production).
+- **[Azure Architect Labs](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases)** — Reference labs: Entra/CA/RBAC patterns, hybrid VPN/DNS, Terraform, networking, Azure Monitor.
+- **[Network Infrastructure Upgrade — Computer Plus Solutions](https://github.com/supbrice/CloudProjects)** — UniFi gateway, L2/L3 PoE, VLAN zoning (public / corporate / OT), troubleshooting scenarios (unpinned; networking proof).
 
 ---
 
 ## Experience
-
-**Client Technical Support — Roundel / Target**  
-*October 2025 – January 2026*  
-ServiceNow Tier 2/3 support.
-
-**Workforce Management Analyst — WTW**  
-*August 2022 – December 2024*  
-Workforce operations (NICE / Genesys).
 
 **Systems Administrator — nVent HOFFMAN**  
 *Anoka, MN · March 2021 – August 2022*  
@@ -54,6 +46,10 @@ Azure / Entra identity, hybrid infrastructure, IaC with Terraform, Python, and P
 **IT Support — MTN Cameroon**  
 *September 2016 – February 2021*  
 Enterprise networking for 100+ users.
+
+**Client Technical Support — Roundel / Target** · Oct 2025 – Jan 2026 · ServiceNow Tier 2/3.
+
+**Workforce Management Analyst — WTW** · Aug 2022 – Dec 2024 · Workforce operations (NICE / Genesys).
 
 ---
 
