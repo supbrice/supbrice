@@ -1,16 +1,16 @@
 <div align="center">
 
-# Brice
+# Ngu Brice Che | 🦾
 
 **IT Professional**
 
 Systems Administration · IT Operations · Technical Support · Networking
 
-Ramsey, Minnesota
+Minnesota
 
-I build, support, and troubleshoot technology environments — with cloud, identity, and automation as supporting skills, and cybersecurity as a growth path.
+I build, support, and troubleshoot technology environments so people and systems stay reliable and productive.
 
-[Portfolio](https://supbrice.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ngubriceche) · [GitHub](https://github.com/supbrice)
+[Portfolio](https://supbrice.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ngubriceche) · [Links](https://supbrice.github.io/links/)
 
 <img src="https://img.shields.io/badge/Azure-0071e3?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Entra%20ID-0071e3?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
@@ -34,42 +34,45 @@ I build, support, and troubleshoot technology environments — with cloud, ident
 
 ---
 
-## Labs (PORTFOLIO / LAB)
+## Featured labs (PORTFOLIO / LAB)
 
-These are learning and demonstration repos. They are not production customer environments.
+Learning and demonstration repos — not production customer environments.
 
-- **[entra-hybrid-proof](https://github.com/supbrice/entra-hybrid-proof)** — Entra ID + hybrid identity pack: Conditional Access, PIM, group access, PowerShell joiner/mover/leaver (lab, not a customer tenant).
-- **[configure-ad](https://github.com/supbrice/configure-ad)** — Hybrid AD DS on Azure VMs: OU/GPO baseline, Entra Connect / Cloud Sync notes.
-- **[Multi-Region Azure Hybrid](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity)** — Terraform lab: multi-region networking, VPN hub, Bastion, RBAC, Monitor.
-- **[Azure Cloud Skills](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases)** — Reference labs for Entra/CA/RBAC, hybrid VPN/DNS, Terraform, and Monitor.
-- **[CloudProjects](https://github.com/supbrice/CloudProjects)** — CPS network upgrade lab: UniFi, VLANs, OT / public / corporate isolation, troubleshooting scenarios.
+| Type | Repo | Focus |
+|------|------|--------|
+| Project | [CloudProjects](https://github.com/supbrice/CloudProjects) | UniFi / VLAN / OT isolation network upgrade lab |
+| Project | [Multi-Region Azure Hybrid](https://github.com/supbrice/Multi-Region-Azure-Hybrid-Infrastructure-Zero-Trust-Identity) | Terraform multi-region networking + hybrid patterns |
+| Lab | [entra-hybrid-proof](https://github.com/supbrice/entra-hybrid-proof) | Conditional Access, PIM, hybrid identity practice pack |
+| Lab | [configure-ad](https://github.com/supbrice/configure-ad) | Hybrid AD DS on Azure VMs — OU/GPO + Entra Connect notes |
+| Lab | [Azure Cloud Skills](https://github.com/supbrice/Azure-Cloud-Skills-and-Use-Cases) | Entra/CA/RBAC, hybrid VPN/DNS, Terraform, Monitor |
 
 ---
 
 ## Experience
 
-**Systems Administrator — nVent HOFFMAN**  
-*Anoka, MN · March 2021 – August 2022*  
-Azure / Entra identity, hybrid infrastructure, IaC with Terraform, Python, and PowerShell.
+**Client Technical Support Specialist — Roundel · Target Corporation**  
+*Oct 2025 – Jan 2026 · Minneapolis, MN*
 
-**IT Support — MTN Cameroon**  
-*September 2016 – February 2021*  
+**Chat & Phone Technical Customer Service — Foundever**  
+*Mar 2025 – Apr 2025 · United States*
+
+**Workforce Management Analyst (Real Time Analyst) — WTW (Willis Towers Watson)**  
+*Aug 2022 – Dec 2024 · Bloomington, MN*
+
+**System Administrator — nVent HOFFMAN**  
+*Mar 2021 – Aug 2022 · Anoka, MN*  
+Azure / Entra identity, hybrid infrastructure, Terraform, Python, and PowerShell.
+
+**IT Support Specialist — MTN Cameroon**  
+*Sep 2016 – Feb 2021 · Bamenda, Cameroon*  
 Enterprise networking.
-
-**Client Technical Support — Roundel / Target**  
-*October 2025 – January 2026*  
-ServiceNow Tier 2/3.
-
-**Workforce Management Analyst — WTW**  
-*August 2022 – December 2024*  
-Workforce operations (NICE / Genesys).
 
 ---
 
 ## Certifications
 
-- Microsoft Certified: Azure Solutions Architect Expert — November 2024
-- Microsoft Certified: Azure Administrator Associate — September 2024
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305) — November 2024
+- Microsoft Certified: Azure Administrator Associate (AZ-104) — September 2024
 - Cisco CCNA track
 
 ---
@@ -79,3 +82,4 @@ Workforce operations (NICE / Genesys).
 - Portfolio: [supbrice.github.io/portfolio](https://supbrice.github.io/portfolio/)
 - LinkedIn: [linkedin.com/in/ngubriceche](https://www.linkedin.com/in/ngubriceche)
 - Links: [supbrice.github.io/links](https://supbrice.github.io/links/)
+- GitHub: [github.com/supbrice](https://github.com/supbrice)
