@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ngu Brice Che | 🦾
+# Brice | 🦾
 
 **IT Professional**
 
