@@ -10,7 +10,7 @@ Minnesota
 
 I build, support, and troubleshoot technology environments so people and systems stay reliable and productive.
 
-[Portfolio](https://supbrice.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ngubriceche) · [Links](https://supbrice.github.io/links/)
+[Portfolio](https://supbrice.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ngubriceche)
 
 <img src="https://img.shields.io/badge/Azure-0071e3?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Entra%20ID-0071e3?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
